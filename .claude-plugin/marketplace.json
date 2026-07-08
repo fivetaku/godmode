@@ -1,0 +1,14 @@
+{
+  "name": "godmode",
+  "owner": {
+    "name": "fivetaku",
+    "url": "https://github.com/fivetaku"
+  },
+  "plugins": [
+    {
+      "name": "godmode",
+      "source": "./",
+      "description": "IDDQD for your ideas — a goal-driven pipeline loop that refuses to die until it's done."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "godmode",
+  "version": "0.1.0",
+  "description": "IDDQD for your ideas — 켜면 문서가 '완성'이라고 말할 때까지 안 멈추는 골 드리븐 파이프라인 루프. Turn it on. It refuses to die until it's done.",
+  "author": {
+    "name": "fivetaku",
+    "url": "https://github.com/fivetaku"
+  },
+  "keywords": [
+    "godmode",
+    "cheat-code",
+    "pipeline",
+    "loop",
+    "goal-driven",
+    "orchestration",
+    "meme"
+  ],
+  "license": "MIT"
+}
